@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+}
+
+.video-image {
+    height: 22rem;
+    width: 15rem;
+}
+
+
+
