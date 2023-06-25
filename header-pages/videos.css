@@ -1,13 +1,11 @@
 .container {
     display: flex;
     gap: 1rem;
-    align-items: flex-start;
+    margin: 0;
 }
 
 .video-image {
     height: 22rem;
     width: 15rem;
 }
-
-
 

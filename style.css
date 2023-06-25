@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    gap: 1rem;
+    margin: 0;
+    border: solid;
+    justify-content: center;
+}
+
+.text {
+    text-align: center;
+}
+
+.united-states-in-1861 {
+    max-width: 100%;
+    max-height: 40rem;    
+}
+
+.h2 {
+    text-align: center;
+}
+
+.title-image{
+    max-width: 100%;
+}
+
