@@ -15,7 +15,7 @@
     max-height: 40rem;    
 }
 
-.h2 {
+h2 {
     text-align: center;
 }
 
@@ -23,3 +23,12 @@
     max-width: 100%;
 }
 
+p {
+    text-indent: 5rem;
+}
+
+#bloc {
+    font-size: small;
+    margin-top: 1rem;
+    margin-left: 1rem;
+  }
